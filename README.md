@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RodrigoMMarrtins
+- 👀 I’m interested in adquire new experiences in the programming world and improve myself.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 💞️ I’m looking to collaborate on projects where i can have oportunities to learn more and meet interesting persons :).
+- 📫 How to reach me: e-mail: rodrigomendesmartins22@gmail.com
