@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning learning Reactjs. I have considerable knowing in the web trio, but, I'm looking to improve it more.
 - 💞️ I’m looking to collaborate on projects where i can have oportunities to learn more and meet interesting persons :).
 - 📫 How to reach me: e-mail: rodrigomendesmartins22@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMMarrtins)](https://github.com/anuraghazra/github-readme-stats)
