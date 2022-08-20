@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects where i can have oportunities to learn more and meet interesting persons :).
 - 📫 How to reach me: e-mail: rodrigomendesmartins22@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMMarrtins)](https://github.com/anuraghazra/github-readme-stats)
+[![Rodrigo Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMMarrtins&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
