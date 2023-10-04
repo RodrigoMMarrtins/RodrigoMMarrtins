@@ -5,7 +5,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RodrigoMMarrtins.RodrigoMMarrtins)
 
 - 👋 Hi, I’m @RodrigoMMarrtins
-- 👀 As a Brazilian software developer with a full-stack background, possessing two years of experience.
+- 👀 Brazilian software developer with a full-stack background, possessing two years of experience.
 
 - 📫 How to reach me: e-mail: rodrigomendesmartins22@gmail.com
   
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/-GO-00599C?style=flat-square&logo=c)
+![Go](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
