@@ -1,6 +1,6 @@
 ## Great to see you here!
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mendesrodrigomartins/)](https://www.linkedin.com/in/mendesrodrigomartins/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigomendesmartins22@gmail.com)](mailto:rodrigomendesmartins22@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mendesrodrigomartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mendesrodrigomartins/)](https://www.linkedin.com/in/mendesrodrigomartins/)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigomendesmartins22@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigomendesmartins22@gmail.com)](mailto:rodrigomendesmartins22@gmail.com)
 
 - 👋 Hi, I’m @RodrigoMMarrtins
 - 👀 As software developer with a full-stack background, possessing two years of experience.
