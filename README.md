@@ -6,8 +6,6 @@
 
 - 👋 Hi, I’m @RodrigoMMarrtins
 - 👀 Brazilian software developer with a full-stack background, possessing two years of experience.
-
-- 📫 How to reach me: e-mail: rodrigomendesmartins22@gmail.com
   
 ## ⚡ Technologies
 
